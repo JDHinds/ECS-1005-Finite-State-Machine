@@ -1,6 +1,6 @@
 # ECS 1005: Finite State Machine Project
 
-The following was a project completed in Stage 1 of Electrical and Electronic Engineering. It contains two verilog files, one module file and a testbench, and a complete write up complete with a gate diagram. Enjoy!
+The following was a project completed in Stage 1 of Electrical and Electronic Engineering. It contains two verilog files, one module file and a testbench, and a write up complete with a gate diagram. Enjoy!
 
 ## Problem Statement 
 The Finite State Machine Project 1 is a four-bit password checker, checking four binary values, applied one at a time to the FSM. The FSM must only reset once all four bits have been input, even if the bits are wrong.  
